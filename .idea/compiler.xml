@@ -28,8 +28,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eq-logic" target="1.5" />
+      <module name="equip" target="1.5" />
       <module name="manage" target="1.8" />
-      <module name="yl-equip" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

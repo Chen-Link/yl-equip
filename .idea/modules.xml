@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/eq-logic/eq-logic.iml" filepath="$PROJECT_DIR$/eq-logic/eq-logic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/equip.iml" filepath="$PROJECT_DIR$/equip.iml" />
       <module fileurl="file://$PROJECT_DIR$/manage/manage.iml" filepath="$PROJECT_DIR$/manage/manage.iml" />
-      <module fileurl="file://$PROJECT_DIR$/yl-equip.iml" filepath="$PROJECT_DIR$/yl-equip.iml" />
     </modules>
   </component>
 </project>
